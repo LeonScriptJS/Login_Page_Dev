@@ -82,7 +82,7 @@ JavaScript handles the toggle functionality by adding or removing active classes
 
 ## Form Validation
 
-The forms currently use built-in HTML validation such as:
+The forms currently use built-in HTML validation, such as:
 
 * `required`
 * `minlength`
